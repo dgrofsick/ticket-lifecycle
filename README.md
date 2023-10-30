@@ -82,3 +82,9 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 NOTE:  When using the above methods to create and submit tickets, be sure to vary the severity of the problems.  By doing this and addressing the created tickets as Help Desk employees, you allow yourself to make judgement calls and categorize the tickets in accordance to their severity.  Select the appropriate SLA status for the ticket created as well as which department/team the ticket is best suited for <b>i.e. a Sev-C issue for the Support Department may be best used for an issue submitted by someone who requested new equipment or a new password while a Sev-A issue such as customers not being able to check out and pay for their orders due to a system error is best suited for the System Administration Team.</b>  These options can be found in the same menu where you would post your reply to the customer's submitted ticket.  When or if these tickets are categorized as such, they will be forwarded to the assigned department and await a proper response.
 
 ![image](https://github.com/dgrofsick/ticket-lifecycle/assets/148154704/6dea56f8-70e0-490a-86ab-93c59279e9fa)
+
+<h2>Resource Cleanup</h2>
+
+- Close your Remote Desktop connection
+- Delete the Resource Group(s) created at the beginning of this turtorial, including the Network Watcher
+- Verify Resource Group Deletion
